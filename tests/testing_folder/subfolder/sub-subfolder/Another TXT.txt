@@ -1,0 +1,30 @@
+vector
+map
+set
+lol
+hoooooooooooooooooooooray
+nice
+map
+unordered_map
+mapmap
+map
+decltype
+new
+thread_local
+typedef
+namespace
+int
+map
+map
+vector
+set
+int
+int
+
+i++; j++;
+k++; h++;
+i+= 1
+j+= 1
+k += 1
+
+something else

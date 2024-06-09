@@ -1,0 +1,18 @@
+vector
+map
+set
+lol
+hoooooooooooooooooooooray
+nice
+map
+unordered_map
+mapmap
+map
+
+i++; j++;
+k++; h++;
+i+= 1
+j+= 1
+k += 1
+
+something else
